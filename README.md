@@ -2,6 +2,8 @@
 
 > Add text captions (top and bottom) to images using command line
 
+Bog post: <http://blog.lipsumarium.com/caption-memes-in-python/>
+
 ## Install
 
 1. Clone this repository
