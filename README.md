@@ -21,3 +21,5 @@ Example:
 ```bash
 python meme.py images/i-dont-always.jpg "i don't always make memes" "but when i do I use python" out.jpg
 ```
+
+![example result](http://blog.lipsumarium.com/assets/img/posts/2017-07-22-caption-memes-in-python/out.jpg)
